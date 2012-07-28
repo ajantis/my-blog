@@ -1,7 +1,7 @@
 ## Some thoughts on SE, technologies and innovations
 
 Welcome to my blog. I work at [Ambiq](http://www.ambiqtech.com) and extensively use [Lift](http://www.liftweb.net) and [Scala](http://scala-lang.org) in my work and hobby projects.
-I also work on hobby project called S4 with [my friends](http://https://github.com/ifunsoftware). We develop semantic search & NLP analysis engine for non-structured text data and source code.
+I also work on hobby project called S4 with [my friends](http://github.com/ifunsoftware). We develop semantic search & NLP analysis engine for non-structured text data and source code.
 So stay tuned :)
 
 
