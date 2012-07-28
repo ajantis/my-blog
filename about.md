@@ -1,14 +1,23 @@
 ## About 
 
-I'm Dmitry Ivanov, software engineer at Ambiq Technology Inc.
-This is me :) :
+<p>I'm Dmitry Ivanov, software engineer at Ambiq Technology Inc.</p>
+<p>This is me:</p> 
+<br/>
 <img src="http://cs663.userapi.com/u80264/95482025/x_b1b77e34.jpg" alt="myphoto" title="Dmitry_Ivanov" />
 
 ## Contact Me
 
-G+: https://plus.google.com/109183601914292754209
-E-mail: id.ajantis@gmail.com
-Skype: id.ajantis
-
+<ul>
+    <li>
+	Google+: [https://plus.google.com/109183601914292754209]([https://plus.google.com/109183601914292754209)
+    </li>
+    <li>
+	E-mail: [id.ajantis@gmail.com](mailto:id.ajantis@gmail.com)
+    </li>
+    <li>	
+	Skype: <b>id.ajantis</b>
+    </li>
+</ul>
+    
 [title: About]: /
 [order: 20]: /
