@@ -9,13 +9,10 @@
 
 <ul>
     <li>
-	Google+: [https://plus.google.com/109183601914292754209](https://plus.google.com/109183601914292754209)
+	Google+: <a href="https://plus.google.com/109183601914292754209">https://plus.google.com/109183601914292754209</a>
     </li>
     <li>
 	E-mail: <b>id.ajantis@gmail.com</b>
-    </li>
-    <li>	
-	Skype: <b>id.ajantis</b>
     </li>
 </ul>
     
