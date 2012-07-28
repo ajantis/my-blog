@@ -1,6 +1,8 @@
-## Welcome
+## Some thoughts on SE, technologies and innovations
 
-Welcome to my blog.  Here are my most recent blog posts:
+Welcome to my blog. I work at Ambiq (www.ambiqtech.com) and extensively use Lift (www.liftweb.net) and Scala (scala-lang.org) in my work and hobby projects.
+I also work on hobby project called S4 with my friends (http://https://github.com/ifunsoftware). We build semantic search & NLP analysis engine for non-structured text data and source code.
+So stay tuned :)
 
 
 <ul class="posts" style="list-style: none" data-lift="blog.posts?max=15">

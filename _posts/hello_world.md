@@ -1,10 +1,10 @@
-[title: Hello World]: /
+[title: Scala eXchange 2012]: /
 [category: Personal]: /
-[date: 2012/06/10]: /
-[tags: {rant, social, ows}]: /
+[date: 2012/07/28]: /
+[tags: {scala, scalax, london}]: /
 
-## Hello World
+## Scala eXchange 2012 is announced!
 
-I like to blog.  This is my first blog post via
-[Telegram](https://telegr.am).  Thanks for reading it.
+http://skillsmatter.com/event/scala/scala-exchange-2012/
+Wow. I've just signed up for this event. Can't wait to be there.
 
